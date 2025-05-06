@@ -1,0 +1,6 @@
+getgenv().config = {
+    noStun = true, -- If you don't want no stun, set this to false
+    reviveMoveset = false -- If you want a custom Moveset for this script, set this to true
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XymonGamersOfficial/ReviveScriptbyXymon/refs/heads/main/Revivescript%20v1.0.1", true))()
